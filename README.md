@@ -37,7 +37,7 @@ erDiagram
 2. Clonar el repositorio. Hacer `npm install` para instalar las dependencias.
 3. Conectarla con nuestro programa usan la librería pg. Está el esqueleto en `main.js`.
 4. Poblar la BDD con los datos. Para eso, cuentan con la función `resetearBDD()` que pueden importar. **OJO:** Es una función asíncrona, así que no se olviden de usar `await` al llamarla.
-5. Hacer consultas a la base de datos para responder las siguientes preguntas:
+5. Completar las funciones, para realizar las consultas a la base de datos para responder las siguientes preguntas:
 
 - Listar todos los eventos del dia 2024-01-06.
 - Borrar todos los eventos de parque de la ciudad.
